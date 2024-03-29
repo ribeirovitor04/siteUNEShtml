@@ -1,0 +1,21 @@
+/* div {
+    border: 2px solid black;
+} */
+
+body {
+    position: relative;
+    max-width: 50%;
+    margin: 43px auto;
+    right: 100px;
+    /* background-image: url(imagens/fundo.png); */
+}
+
+span {
+    position: relative;
+    left: 600px;
+}
+
+.d1 {
+    position: relative;
+    left: 50%;
+}
